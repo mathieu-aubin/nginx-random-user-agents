@@ -29,7 +29,7 @@ padWithZeros=false;
 # Generate files containing ALL user-agents?
 # File will be named ALL while also using defined prefix
 # ${fileNamePrefix}_ALL.ext
-indexAll=1
+indexAll=false
 
 # Cleanup/remove previous run directories?
 # Should be set to true in order to avoid problems if generating
