@@ -43,14 +43,15 @@ nginx_Config=true;
 # Name of configuration file to output
 nginx_ConfigFile=random-ua.conf;
 
-# Output as location blocks only
+# Output as location blocks only, else output full server block
 nginx_LocOnly=0;
 
 # If entire server block is generated, use ipv6? (ipv4 is always used)
 nginx_ipv6=0;
 
 # Universal/catch-all server_name set as default. Respond to anything
-nginx_ServerName="__";
+# Use your domain here if needed
+nginx_ServerName="_";
 
 # Respond to robots by catching requests to robots.txt
 nginx_RobotsTxt=true;
@@ -69,8 +70,37 @@ nginx_Secure=0;
 _genNginxConfig() {
 
 	# Not yet implemented
-	echo -e "\033[1;38;5;208mWARNING\033[0;1m:\033[0m nginx config generation has not yet been implemented." >&2;
+	echo -e "\033[1;38;5;208mWARNING\033[0;1m:\033[0m nginx config generation has not yet been fully implemented." >&2;
 
+	# Create a temporary file into which we throw things in
+	local tmpConfig=$(mktemp -t ngx-randomua.XXXXXXXX.conf);
+
+	## If we generate a full server block
+	if [[ ${nginx_LocOnly} -eq 0 || "${nginx_LocOnly}" == "false" ]]; then
+		# Open server block and add listen directive
+		echo -e "server {\n\tlisten 80;" >> ${tmpConfig};
+
+		# Add ipv6 listen directive if required
+		if [[ ${nginx_ipv6} -eq 1 || "${nginx_ipv6}" == "true" ]]; then
+			echo -e "\tlisten [::]:80;" >> ${tmpConfig};
+		fi
+
+		# Add server_name or catch all server_name
+		echo -e "\tserver_name ${nginx_ServerName:-_};\n" >> ${tmpConfig};
+
+		# If we should respond to robots...
+		if [[ ${nginx_RobotsTxt} -eq 1 || "${nginx_RobotsTxt}" == "true" ]]; then
+			cat templates/nginx/robots.tpl >> ${tmpConfig};
+		fi
+
+		echo -e "\n}\n" >> ${tmpConfig};
+	fi
+
+	# DEBUG OUTPUT
+	>&2 echo; >&2 cat ${tmpConfig};
+
+	# Cleanup after ourselves..
+	[[ -f ${tmpConfig} ]] && rm -f ${tmpConfig};
 }
 
 # Check for input file existance
@@ -103,6 +133,8 @@ _checkDirectories() {
 
 	# Check for text index directory
 	if [[ ${asTxt} -eq 1 || "${asTxt}" == "true" ]]; then
+		# Mention that we will generate text indexes
+		echo -e "\033[1;38;5;28mINFO\033[0;1m:\033[0m will generate text indexes";
 		mkdir -p "${textDir}";
 	else
 		rm -rf --preserve-root "${textDir}";
@@ -110,6 +142,8 @@ _checkDirectories() {
 
 	# Check for html index directory
 	if [[ ${asHtml} -eq 1 || "${asHtml}" == "true" ]]; then
+		# Mention that we will generate html indexes
+		echo -e "\033[1;38;5;28mINFO\033[0;1m:\033[0m will generate html indexes";
 		mkdir -p "${htmlDir}"
 	else
 		rm -rf --preserve-root "${htmlDir}";
@@ -178,11 +212,11 @@ _loopThruFile() {
 
 }
 
-# Call to create/remove/cleanup stuff needed;
-_checkDirectories;
-
 # Check for file existance
 _checkInputFile;
+
+# Call to create/remove/cleanup stuff needed;
+_checkDirectories;
 
 # Proceed to generation
 _loopThruFile;
