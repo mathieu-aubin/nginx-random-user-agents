@@ -1,8 +1,15 @@
 # nginx-random-user-agents
 
-This will create (enventually) nginx configuration which will output a random user-agent on each visit
+### About
+This will create (enventually) nginx configuration which will output a random user-agent on each page refresh
 
-Currently, the script properly generates text and html indexes.
+### As it stands
+Currently, the script properly generates text and html indexes out of a bank of 7460 user-agents.
 
-The plan is to generate several types of indexes and nginx configuration using templates
+### Plan
+
+Generate both:
+
+- several types of user-agent indexes
+- nginx configuration using (or not?) templates
 
