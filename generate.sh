@@ -90,7 +90,7 @@ _genNginxConfig() {
 
 		# If we should respond to robots...
 		if [[ ${nginx_RobotsTxt} -eq 1 || "${nginx_RobotsTxt}" == "true" ]]; then
-			cat templates/nginx/robots.tpl >> ${tmpConfig};
+			cat data/templates/nginx/robots.tpl >> ${tmpConfig};
 		fi
 
 		echo -e "\n}\n" >> ${tmpConfig};
