@@ -1,3 +1,7 @@
+AlohaBrowser/2.8.1 (com.alohabrowser.alohabrowser; build:20; iOS 11.2.5) Alamofire/4.7.3
+AlohaBrowser/2.8.2 (com.alohabrowser.alohabrowser; build:4; iOS 12.1.4) Alamofire/4.7.3
+AlohaBrowser/2.8.2 (com.alohabrowser.alohabrowser; build:4; iOS 12.2.0) Alamofire/4.7.3
+AlohaBrowser/2.8.3 (com.alohabrowser.alohabrowser; build:4; iOS 12.2.0) Alamofire/4.8.1
 Apple-PubSub/28
 Apple-PubSub/65.21
 Apple-PubSub/65.28
@@ -36,7 +40,9 @@ Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0)
 Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1)
 Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 4.0) Opera 7.0 [en]
 Mozilla/4.0 (compatible; MSIE 6.0; Update a; AOL 6.0; Windows 98)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; C44)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 8.00
@@ -60,17 +66,20 @@ Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; Win64; AMD64)
 Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 6.0)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Avant Browser)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1) QQBrowser/6.0
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB7.5)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET4.0C)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET4.0C; OfficeLiveConnector.1.5; OfficeLivePatch.1.3)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET4.0C)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET4.0C; .NET4.0E)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/7.0; .NET4.0C; .NET4.0E)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.3; ARM; Trident/7.0; Touch; .NET4.0E; .NET4.0C; Tablet PC 2.0)
 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0;
 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5)
 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET4.0C)
 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; tb-webde/2.6.6)
@@ -87,10 +96,14 @@ Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0)
 Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1)
 Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
 Mozilla/4.0 (compatible; MSIE 999.1; Unknown)
+Mozilla/4.0 (compatible; ms-office)
 Mozilla/4.0 (compatible; Synapse)
+Mozilla/4.0 (compatible; U; MSIE 6.0; Windows NT 5.1)
+Mozilla/4.0 (MSIE 6.0; Windows NT 5.1)
 Mozilla/4.0 (Windows 98; US) Opera 12.16 [en]
 Mozilla/5.001 (Macintosh; N; PPC; ja) Gecko/25250101
 Mozilla/5.001 (X11; U; Linux i686; rv:1.8.1.6; de-ch) Gecko/25250101 (ubuntu-feisty)
+Mozilla/5.0 (A1601 Build/LMY47I; Android 5.1; en-us) AppleWebKit/537.36 (KHTML, like Gecko)  Safari/537.36 Puffin/7.0.0
 Mozilla/5.0 (AmigaOS; U; AmigaOS 1.3; en; rv:1.8.1.19) Gecko/20081204 SeaMonkey/1.1.14
 Mozilla/5.0 (AmigaOS; U; AmigaOS 1.3; en-US; rv:1.8.1.21) Gecko/20090303 SeaMonkey/1.1.15
 Mozilla/5.0 (Amiga; U; AmigaOS 1.3; en; rv:1.8.1.19) Gecko/20081204 SeaMonkey/1.1.14
@@ -117,13 +130,18 @@ Mozilla/5.0 (BB10; Kbd) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.3.3.3
 Mozilla/5.0 (BB10; Kbd) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.3.3.3216 Mobile Safari/537.35+
 Mozilla/5.0 (BB10; Touch) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.0.10.261 Mobile Safari/537.10+
 Mozilla/5.0 (BB10; Touch) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.2.0.1803 Mobile Safari/537.35+
+Mozilla/5.0 (BB10; Touch) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.2.1.3247 Mobile Safari/537.35+
 Mozilla/5.0 (BB10; Touch) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.2.2.1531 Mobile Safari/537.35+
 Mozilla/5.0 (BB10; Touch) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.2.2.1609 Mobile Safari/537.35+
 Mozilla/5.0 (BB10; Touch) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.3.1.2576 Mobile Safari/537.35+
+Mozilla/5.0 (BB10; Touch) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.3.2.2639 Mobile Safari/537.35+
 Mozilla/5.0 (BB10; Touch) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.3.2.2876 Mobile Safari/537.35+
+Mozilla/5.0 (BB10; Touch) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.3.2.798 Mobile Safari/537.35+
+Mozilla/5.0 (BB10; Touch) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.3.2.858 Mobile Safari/537.35+
 Mozilla/5.0 (BB10; Touch) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.3.3.2163 Mobile Safari/537.35+
 Mozilla/5.0 (BB10; Touch) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.3.3.2205 Mobile Safari/537.35+
 Mozilla/5.0 (BB10; Touch) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.3.3.3057 Mobile Safari/537.35+
+Mozilla/5.0 (BB10; Touch) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.3.3.3204 Mobile Safari/537.35+
 Mozilla/5.0 (BB10; Touch) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.3.3.3216 Mobile Safari/537.35+
 Mozilla/5.0 (BeOS; U; BeOS BeBox; fr; rv:1.9) Gecko/2008052906 BonEcho/2.0
 Mozilla/5.0 (BeOS; U; BeOS BePC; en-US; rv:1.8.1.10) Gecko/20071128 BonEcho/2.0.0.10
@@ -146,7 +164,10 @@ Mozilla/5.0 (BlackBerry; U; BlackBerry 9900; de) AppleWebKit/534.11+ (KHTML, lik
 Mozilla/5.0 (compatible)
 Mozilla/5.0 (compatible; ABrowse 0.4; Syllable)
 Mozilla/5.0 (compatible; BadooBot; +badoo.com)
+Mozilla/5.0 (compatible; bnf.fr_bot; +http://www.bnf.fr/fr/outils/a.dl_web_capture_robot.html)
+Mozilla/5.0 (compatible; evc-batch/2.0)
 Mozilla/5.0 (compatible; Google Desktop/5.9.1005.12335; http://desktop.google.com/)
+Mozilla/5.0 (compatible; GoogleDocs; documents; +http://docs.google.com)
 Mozilla/5.0 (compatible; IBrowse 3.0; AmigaOS4.0)
 Mozilla/5.0 (compatible; iCab 3.0.2; Macintosh; U; PPC Mac OS)
 Mozilla/5.0 (compatible; iCab 3.0.2; Macintosh; U; PPC Mac OS X)
@@ -154,6 +175,7 @@ Mozilla/5.0 (compatible; iCab 3.0.3; Macintosh; U; PPC Mac OS)
 Mozilla/5.0 (compatible; iCab 3.0.3; Macintosh; U; PPC Mac OS X)
 Mozilla/5.0 (compatible; iCab 3.0.5; Macintosh; U; PPC Mac OS)
 Mozilla/5.0 (compatible; iCab 3.0.5; Macintosh; U; PPC Mac OS X)
+Mozilla/5.0 (compatible;Impact Radius Compliance Bot)
 Mozilla/5.0 (compatible; Konqueror/2.1.1; X11)
 Mozilla/5.0 (compatible; Konqueror/2.1.2; X11)
 Mozilla/5.0 (compatible; Konqueror/2.2-11; Linux)
@@ -519,6 +541,7 @@ Mozilla/5.0 (compatible; Konqueror/4.3; Linux) KHTML/4.3.1 (like Gecko) Fedora/4
 Mozilla/5.0 (compatible; Konqueror/4.4; Linux 2.6.32-22-generic; X11; en_US) KHTML/4.4.3 (like Gecko) Kubuntu
 Mozilla/5.0 (compatible; Konqueror/4.4; Linux) KHTML/4.4.1 (like Gecko) Fedora/4.4.1-1.fc12
 Mozilla/5.0 (compatible; Konqueror/4.5; FreeBSD) KHTML/4.5.4 (like Gecko)
+Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
 Mozilla/5.0 (compatible; MSIE 10.0; Macintosh; Intel Mac OS X 10_7_3; Trident/6.0)
 Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 5.1; Trident/3.0)
 Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.0; Trident/3.0)
@@ -528,6 +551,7 @@ Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)
 Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
 Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0; MAAU; MAAU)
 Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0; MANM)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0; MASBJS)
 Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0; MASMJS)
 Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0; MASPJS)
 Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0; MATMJS)
@@ -557,7 +581,9 @@ Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.
 Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; Microsoft; Lumia 535)
 Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; Microsoft; Lumia 540 Dual SIM)
 Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; Microsoft; Lumia 640 Dual SIM)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 1320)
 Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 520)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 520; ANZ914)
 Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 520; Vodafone)
 Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 620)
 Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 625)
@@ -570,6 +596,9 @@ Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.
 Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 925)
 Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; SAMSUNG; GT-I8750)
 Mozilla/5.0 (compatible; MSIE 10.6; Windows NT 6.1; Trident/5.0; InfoPath.2; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727) 3gpp-gba UNTRUSTED/1.0
+Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+Mozilla/5.0 (compatible; MSIE 5.01; Windows NT 5.0)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.0; Trident/4.0)
 Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1)
 Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4325)
 Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
@@ -602,6 +631,8 @@ Mozilla/5.0 (compatible; MSIE 9.0; AOL 9.0; Windows NT 6.0; Trident/5.0)
 Mozilla/5.0 (compatible; MSIE 9.0; AOL 9.1; AOLBuild 4334.5012; Windows NT 6.0; WOW64; Trident/5.0)
 Mozilla/5.0 (compatible; MSIE 9.0; AOL 9.7; AOLBuild 4343.19; Windows NT 6.1; WOW64; Trident/5.0; FunWebProducts)
 Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0) Opera 12.14
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/3.0)
 Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/4.0; GTB7.4; InfoPath.3; SV1; .NET CLR 3.1.76908; WOW64; en-US)
 Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/4.0; Maxthon; SV1; .NET CLR 1.1.4322; .NET CLR 2.4.84947; SLCC1; Media Center PC 4.0; Zune 3.5; Tablet PC 3.5; InfoPath.3)
 Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0)
@@ -618,6 +649,7 @@ Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; tb-webde/2.7.4)
 Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; tb-webde/2.7.4; (webde/1.4.0.0))
 Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; TheWorld)
 Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; Trident/5.0)
 Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; (webde/1.0.0.8))
 Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; de) Opera 11.51
 Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/3.0)
@@ -636,6 +668,7 @@ Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; MAMD)
 Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; NP07; NP07)
 Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; .NET CLR 1.1.4322; .NET4.0C; Tablet PC 2.0)
 Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0;  Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; Trident/5.0)
 Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; yie8)
 Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0
 Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Zune 4.0; Tablet PC 2.0; InfoPath.3; .NET4.0C; .NET4.0E)
@@ -661,10 +694,13 @@ Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9
 Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 900)
 Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 900; Vodafone)
 Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 925)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Nokia 710)
 Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; SAMSUNG; OMNIA7)
 Mozilla/5.0 (compatible; PR-CY.RU; + https://a.pr-cy.ru)
 Mozilla/5.0 (compatible; SEOkicks; +https://www.seokicks.de/robot.html)
 Mozilla/5.0 (compatible; Sundance/0.9x)
+Mozilla/5.0 (compatible; The Lounge IRC Client; +https://github.com/thelounge/lounge)
+Mozilla/5.0 (compatible; The Lounge IRC Client; +https://github.com/thelounge/thelounge)
 Mozilla/5.0 (compatible; U; ABrowse 0.6; Syllable) AppleWebKit/420+ (KHTML, like Gecko)
 Mozilla/5.0(Compatible; Windows; U; en-US;) Sundance/0.9
 Mozilla/5.0(Compatible; Windows; U; en-US;) Sundance/0.9.0.33
@@ -1739,6 +1775,7 @@ Mozilla/5.0 (Windows ME; U; en) Opera 8.51
 Mozilla/5.0 (Windows ME; U) Opera 6.05 [de]
 Mozilla/5.0 (Windows NT 10.0; Trident/7.0; BOIE9;DEDE; rv:11.0) like Gecko
 Mozilla/5.0 (Windows NT 10.0; Trident/7.0; EIE10;DEDEWOL; rv:11.0) like Gecko
+Mozilla/5.0 (Windows NT 10.0; Trident/7.0; KB974488; rv:11.0) like Gecko
 Mozilla/5.0 (Windows NT 10.0; Trident/7.0; LEN2; rv:11.0) like Gecko
 Mozilla/5.0 (Windows NT 10.0; Trident/7.0; MALC; rv:11.0) like Gecko
 Mozilla/5.0 (Windows NT 10.0; Trident/7.0; MAMD; MSNIE9A; rv:11.0) like Gecko
@@ -1749,6 +1786,7 @@ Mozilla/5.0 (Windows NT 10.0; Trident/7.0; MAMD; tb-webde/2.7.4; rv:11.0) like G
 Mozilla/5.0 (Windows NT 10.0; Trident/7.0; MAMD; TOnlineIE11A; rv:11.0) like Gecko
 Mozilla/5.0 (Windows NT 10.0; Trident/7.0; MAMD; (webde/1.4.0.0); rv:11.0) like Gecko
 Mozilla/5.0 (Windows NT 10.0; Trident/7.0; MANM; rv:11.0) like Gecko
+Mozilla/5.0 (Windows NT 10.0; Trident/7.0; rv:11.0; GTB7.5) like Gecko
 Mozilla/5.0 (Windows NT 10.0; Trident/7.0; rv:11.0) like Gecko
 Mozilla/5.0 (Windows NT 10.0; Trident/7.0; rv:11.0; MSN 11.7; MSNbMSNI; MSNmen-us; MSNcOTH) like Gecko
 Mozilla/5.0 (Windows NT 10.0; Trident/7.0; tb-1und1/2.7.0; rv:11.0) like Gecko
@@ -1931,6 +1969,7 @@ Mozilla/5.0 (Windows NT 5.2; U; ru; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 Ope
 Mozilla/5.0 (Windows NT 5.2; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.41 Safari/535.1
 Mozilla/5.0 (Windows NT 5.2; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.63 Safari/535.7
 Mozilla/5.0 (Windows NT 5.2; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/533.91.48 (KHTML, like Gecko) Version/5.4.8 Safari/531.84
 Mozilla/5.0 (Windows NT 6.0) AppleWebKit/534.19.62 (KHTML, like Gecko) Version/4.7.2 Safari/533.27
 Mozilla/5.0 (Windows NT 6.0) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.3 Safari/534.24
 Mozilla/5.0 (Windows NT 6.0) AppleWebKit/534.24 (KHTML, like Gecko) Iron/11.0.700.1 Chrome/11.0.700.1 Safari/534.24
@@ -2074,6 +2113,7 @@ Mozilla/5.0 (Windows NT 6.1; Trident/7.0; MAMD; (webde/1.0.0.8); rv:11.0) like G
 Mozilla/5.0 (Windows NT 6.1; Trident/7.0; MANM; rv:11.0) like Gecko
 Mozilla/5.0 (Windows NT 6.1; Trident/7.0; MASBJS; rv:11.0) like Gecko
 Mozilla/5.0 (Windows NT 6.1; Trident/7.0; MATM; rv:11.0) like Gecko
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; MATP; rv:11.0) like Gecko
 Mozilla/5.0 (Windows NT 6.1; Trident/7.0; MDDRJS; rv:11.0) like Gecko
 Mozilla/5.0 (Windows NT 6.1; Trident/7.0; NP07; NP07; rv:11.0) like Gecko
 Mozilla/5.0 (Windows NT 6.1; Trident/7.0; NP07; rv:11.0) like Gecko
@@ -2197,18 +2237,23 @@ Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1
 Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3
 Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1062.0 Safari/536.3
 Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1090.0 Safari/536.6
+Mozilla/5.0 (Windows NT 6.2; ARM; Trident/7.0; Touch; rv:11.0; WPDesktop; Lumia 435 Dual SIM) like Gecko
 Mozilla/5.0 (Windows NT 6.2; ARM; Trident/7.0; Touch; rv:11.0; WPDesktop; Lumia 435; Vodafone ) like Gecko
 Mozilla/5.0 (Windows NT 6.2; ARM; Trident/7.0; Touch; rv:11.0; WPDesktop; Lumia 520) like Gecko
 Mozilla/5.0 (Windows NT 6.2; ARM; Trident/7.0; Touch; rv:11.0; WPDesktop; Lumia 530 Dual SIM) like Gecko
+Mozilla/5.0 (Windows NT 6.2; ARM; Trident/7.0; Touch; rv:11.0; WPDesktop; Lumia 532 Dual SIM) like Gecko
 Mozilla/5.0 (Windows NT 6.2; ARM; Trident/7.0; Touch; rv:11.0; WPDesktop; Lumia 535) like Gecko
+Mozilla/5.0 (Windows NT 6.2; ARM; Trident/7.0; Touch; rv:11.0; WPDesktop; Lumia 540 Dual SIM) like Gecko
 Mozilla/5.0 (Windows NT 6.2; ARM; Trident/7.0; Touch; rv:11.0; WPDesktop; Lumia 630 Dual SIM) like Gecko
 Mozilla/5.0 (Windows NT 6.2; ARM; Trident/7.0; Touch; rv:11.0; WPDesktop; Lumia 630) like Gecko
 Mozilla/5.0 (Windows NT 6.2; ARM; Trident/7.0; Touch; rv:11.0; WPDesktop; Lumia 640 Dual SIM) like Gecko
+Mozilla/5.0 (Windows NT 6.2; ARM; Trident/7.0; Touch; rv:11.0; WPDesktop; Lumia 640 LTE; BingRD) like Gecko
 Mozilla/5.0 (Windows NT 6.2; ARM; Trident/7.0; Touch; rv:11.0; WPDesktop; Lumia 640 LTE) like Gecko
 Mozilla/5.0 (Windows NT 6.2; ARM; Trident/7.0; Touch; rv:11.0; WPDesktop; Lumia 730 Dual SIM) like Gecko
 Mozilla/5.0 (Windows NT 6.2; ARM; Trident/7.0; Touch; rv:11.0; WPDesktop; Lumia 735) like Gecko
 Mozilla/5.0 (Windows NT 6.2; ARM; Trident/7.0; Touch; rv:11.0; WPDesktop; Lumia 925) like Gecko
 Mozilla/5.0 (Windows NT 6.2; ARM; Trident/7.0; Touch; rv:11.0; WPDesktop; Lumia 930) like Gecko
+Mozilla/5.0 (Windows NT 6.2; ARM; Trident/7.0; Touch; rv:11.0; WPDesktop; NOKIA; Lumia 635) like Gecko
 Mozilla/5.0 (Windows NT 6.2; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
 Mozilla/5.0 (Windows NT 6.2; Trident/7.0; rv:11.0) like Gecko
 Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:12.2.1) Gecko/20120616 Firefox/12.2.1-x64 PaleMoon/12.2.1-x64
@@ -2247,14 +2292,19 @@ Mozilla/5.0 (Windows; N; Windows NT 5.1; hu-HU) AppleWebKit/529 (KHTML, like Gec
 Mozilla/5.0 (Windows; N; Windows NT 5.1; id-ID) AppleWebKit/529 (KHTML, like Gecko, Safari/529.0) Lunascape/4.9.9.94
 Mozilla/5.0 (Windows; N; Windows NT 5.2; ru-RU) AppleWebKit/529 (KHTML, like Gecko, Safari/529.0) Lunascape/4.9.9.94
 Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; Microsoft; Lumia 435 Dual SIM) like Gecko
+Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; Microsoft; Lumia 535) like Gecko
 Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 520) like Gecko
 Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 530 Dual SIM) like Gecko
+Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 530) like Gecko
+Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 620) like Gecko
 Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 625) like Gecko
 Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 630) like Gecko
 Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 635) like Gecko
+Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 925) like Gecko
 Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/7.0; Touch; rv:11.0; WebBrowser/8.1; IEMobile/11.0; NOKIA; Lumia 530 Dual SIM) like Gecko UCBrowser/4.2.1.541 Mobile
 Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/8.0; Touch; rv:11.0; WebBrowser/8.1; IEMobile/11.0; Microsoft; Lumia 640 Dual SIM) like Gecko
 Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/8.0; Touch; rv:11.0; WebBrowser/8.1; IEMobile/11.0; Microsoft; Lumia 650) like Gecko
+Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/8.0; Touch; rv:11.0; WebBrowser/8.1; IEMobile/11.0; Microsoft; Lumia 735) like Gecko
 Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/8.0; Touch; rv:11.0; WebBrowser/8.1; IEMobile/11.0; NOKIA; Lumia 1520) like Gecko
 Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/8.0; Touch; rv:11.0; WebBrowser/8.1; IEMobile/11.0; NOKIA; Lumia 735) like Gecko
 Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/8.0; Touch; rv:11.0; WebBrowser/8.1; IEMobile/11.0; NOKIA; Lumia 830) like Gecko
@@ -4612,6 +4662,7 @@ Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.8) Gecko/20100722 Firef
 Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-HK) AppleWebKit/533.18.1 (KHTML, like Gecko) Version/5.0.2 Safari/533.18.5
 Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-TW) AppleWebKit/531.21.8 (KHTML, like Gecko) Version/4.0.4 Safari/531.21.10
 Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-TW; rv:1.9.2.4) Gecko/20100611 Firefox/3.6.4 ( .NET CLR 3.5.30729)
+Mozilla/5.0 (Windows; U; Windows NT 6.2; es-US ) AppleWebKit/540.0 (KHTML like Gecko) Version/6.0 Safari/8900.00
 Mozilla/5.0(Windows; U; Windows NT 7.0; rv:1.9.2) Gecko/20100101 Firefox/3.6
 Mozilla/5.0 (Windows; U; Windows NT 9.0; en-US; rv:1.9.1.11) Gecko/20100701 SeaMonkey/2.0.6
 Mozilla/5.0 (Windows; U; WinNT3.51; en-US; rv:1.8.1.8) Gecko/20071009 SeaMonkey/1.1.5
@@ -7236,6 +7287,11 @@ Mozilla/5.0 (X11; U; x86_64 Linux; en_US; rv:1.7.12) Gecko/20050915 Firefox/1.0.
 Mozilla/5.0 (X11; U; x86_64 Linux; en_US; rv:1.8.16) Gecko/20071015 Firefox/2.0.0.8
 Mozilla/5.0 (X11; U; x86_64 Linux; en_US; rv:1.9.0.5) Gecko/2008120121 Firefox/3.0.5
 Mozilla/5.0 (ZX-81; U; CP/M86; en-US; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+Mozilla/5.9'{${print(238947899389478923-34567343546345)}}'
+Mozilla/5.9{${print(238947899389478923-34567343546345)}}
+Mozilla/5.9}print(238947899389478923-34567343546345);{
+Mozilla/5.9');print(238947899389478923-34567343546345);//
+Mozilla/5.9'];print(238947899389478923-34567343546345);//
 Mozilla/6.0 (compatible; MSIE 7.0a1; Windows NT 5.2; SV1)
 Mozilla/6.0 (Future Star Technologies Corp. Star-Blade OS; U; en-US) iNet Browser 2.5
 Mozilla/6.0 (Macintosh; I; Intel Mac OS X 11_7_9; de-LI; rv:1.9b4) Gecko/2012010317 Firefox/10.0a4
@@ -7252,13 +7308,16 @@ MWP/1.0/Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/8.0; Touch; rv:11.0; WebBro
 MWP/1.0/Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/8.0; Touch; rv:11.0; WebBrowser/8.1; IEMobile/11.0; NOKIA; Lumia 830) like Gecko
 Nokia203/2.0 (20.26) Profile/MIDP-2.1 Configuration/CLDC-1.1
 Nokia203/2.0 (20.26) Profile/MIDP-2.1 Configuration/CLDC-1.1 Google
+Nokia302/5.0 (14.92) Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; en-US; nokia302) U2/1.0.0 UCBrowser/9.2.0.311 U2/1.0.0 Mobile
 Nokia5130c-2/2.0 (07.97) Profile/MIDP-2.1 Configuration/CLDC-1.1 Google
 Nokia6230i/2.0 (03.40) Profile/MIDP-2.0 Configuration/CLDC-1.1
 Nokia6230i/2.0 (03.70) Profile/MIDP-2.0 Configuration/CLDC-1.1 Google
+Nokia6280/2.0 (03.60) Profile/MIDP-2.0 Configuration/CLDC-1.1
 Nokia6280/2.0 (03.60) Profile/MIDP-2.0 Configuration/CLDC-1.1 Google
 Nokia6300/2.0 (07.21) Profile/MIDP-2.0 Configuration/CLDC-1.1 Google
 Nokia6303iclassic/5.0 (06.61) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
 Nokia7230/5.0 (06.90) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+Nokia7610/2.0 (5.0509.0) SymbianOS/7.0s Series60/2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0 Google
 NokiaC2-01/5.0 (11.40) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
 NokiaC2-05/2.0 (08.79) Profile/MIDP-2.1 Configuration/CLDC-1.1 Google
 NSPlayer/07.00.0000.0000 WMFSDK/07.00.0000.0000
@@ -7269,6 +7328,7 @@ NSPlayer/12.00.17134.0471 WMFSDK/12.00.17134.0471
 NSPlayer/12.00.17134.0556 WMFSDK/12.00.17134.0556
 NSPlayer/12.00.17763.0437 WMFSDK/12.00.17763.0437
 NSPlayer/12.00.17763.0475 WMFSDK/12.00.17763.0475
+NSPlayer/12.00.7601.24382 WMFSDK/12.00.7601.24382
 NSPlayer/12.00.9200.16409 WMFSDK/12.00.9200.16409
 NSPlayer/12.00.9200.16550 WMFSDK/12.00.9200.16550
 NSPlayer/12.00.9200.16671 WMFSDK/12.00.9200.16671
@@ -7448,6 +7508,7 @@ Opera/8.54 (Windows NT 5.1; U; pl)
 Opera/8.54 (Windows NT 5.1; U; ru)
 Opera/8.54 (X11; Linux i686; U; de)
 Opera/8.54 (X11; Linux i686; U; pl)
+Opera/8.92 (Windows; U; Windows NT 5.1; ru; rv:1.8.1.38)
 Opera/9.00 (Macintosh; PPC Mac OS X; U; es)
 Opera/9.00 (Nintendo Wii; U; ; 1038-58; Wii Internet Channel/1.0; en)
 Opera/9.00 (Windows NT 4.0; U; en)
@@ -7545,6 +7606,7 @@ Opera/9.20 (Windows NT 5.2; U; en)
 Opera/9.20 (Windows NT 6.0; U; de)
 Opera/9.20 (Windows NT 6.0; U; en)
 Opera/9.20 (Windows NT 6.0; U; es-es)
+Opera/9.20 (Windows; U; Windows NT 5.1; ru; rv:1.8.1.19)
 Opera/9.20 (X11; Linux i586; U; en)
 Opera/9.20 (X11; Linux i686; U; en)
 Opera/9.20 (X11; Linux i686; U; es-es)
@@ -7794,28 +7856,71 @@ Opera/9.70 (Linux i686 ; U; en) Presto/2.2.1
 Opera/9.70 (Linux i686 ; U; en-us) Presto/2.2.0
 Opera/9.70 (Linux i686 ; U; zh-cn) Presto/2.2.0
 Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Opera/9.70 (Windows NT; Windows NT 10.0; en-US) Presto/2.2.1
 Opera 9.7 (Windows NT 5.2; U; en)
 Opera/9.80 (Android 2.2; Opera Mobi/-2118645896; U; pl) Presto/2.7.60 Version/10.5
 Opera/9.80 (Android; Opera Mini/10.0.1884/139.83; U; fr) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/10.0.1884/139.83; U; id) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/11.0.1912/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/11.0.1912/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/11.0.1912/138.63; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/11.0.1912/139.83; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/11.0.1912/139.90; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/12.0.1987/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/12.0.1987/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/12.0.1987/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/12.0.1987/138.63; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/12.0.1987/139.83; U; de) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/12.0.1987/139.83; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/12.0.1987/139.83; U; fr) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/13.0.2036/138.63; U; hi) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/13.0.2036/139.83; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/13.0.2036/139.90; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/14.0.2065/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/14.0.2065/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/14.0.2065/138.54; U; ru) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/14.0.2065/139.83; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/15.0.2125/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/15.0.2125/136.77; U; bn) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/15.0.2125/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/15.0.2125/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/15.0.2125/138.63; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/15.0.2125/139.83; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/15.0.2125/139.90; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/16.0.2168/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/16.0.2168/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/16.0.2168/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/16.0.2168/138.54; U; es) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/16.0.2168/138.63; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/16.0.2168/138.63; U; fr) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/16.0.2168/139.83; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/16.0.2168/139.83; U; fr) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/16.0.2168/139.90; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/17.0.2211/136.64; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/17.0.2211/139.90; U; de) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/17.0.2211/139.90; U; sr) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/18.0.2254/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/18.0.2254/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/18.0.2254/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/18.0.2254/138.63; U; hi) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/18.0.2254/139.83; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/18.0.2254/139.83; U; fa) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/18.0.2254/139.83; U; fr) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/18.0.2254/139.83; U; hi) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/18.0.2254/139.90; U; fa) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/19.0.2254/139.83; U; fa) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/19.0.2254/139.90; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/20.0.2254/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/20.0.2254/136.77; U; ar) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/20.0.2254/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/20.0.2254/136.77; U; fr) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/20.0.2254/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/20.0.2254/138.63; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/20.0.2254/138.63; U; id) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/20.0.2254/139.83; U; ar) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/20.0.2254/139.83; U; de) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/20.0.2254/139.83; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/20.0.2254/139.83; U; fr) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/20.0.2254/139.83; U; tr) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/20.0.2254/139.90; U; de) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/20.0.2254/139.90; U; en) Presto/2.12.423 Version/12.16
@@ -7823,62 +7928,125 @@ Opera/9.80 (Android; Opera Mini/20.0.2254/139.90; U; sr) Presto/2.12.423 Version
 Opera/9.80 (Android; Opera Mini/20.1.2254/139.90; U; de) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/21.0.2254/139.90; U; de) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/22.0.1485/139.83; U; de) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/22.0.2254/139.83; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/22.0.2254/139.83; U; lv) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/22.0.2254/139.83; U; sr) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/23.0.2254/134.104; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/23.0.2254/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/23.0.2254/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/23.0.2254/138.63; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/23.0.2254/139.83; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/24.0.2254/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/24.0.2254/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/24.0.2254/138.63; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/24.0.2254/139.83; U; ar) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/24.0.2254/139.83; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/24.0.2254/139.83; U; fr) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/26.0.2254/133.78; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/26.0.2254/136.77; U; fr) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/26.0.2254/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/26.0.2254/138.54; U; fr) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/26.0.2254/139.83; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/26.0.2254/139.90; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/26.0.2254/139.90; U; fa) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/27.0.2254/134.104; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/27.0.2254/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/27.0.2254/136.77; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/27.0.2254/139.83; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/27.0.2254/139.90; U; de) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/28.0.2254/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/28.0.2254/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/28.0.2254/138.54; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/28.0.2254/139.83; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/28.0.2254/139.83; U; tr) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/28.0.2254/139.90; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/29.0.2254/136.64; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/29.0.2254/139.83; U; ar) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/30.0.2254/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/30.0.2254/138.63; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/30.0.2254/138.63; U; fr) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/30.0.2254/139.83; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/30.0.2254/139.90; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/31.0.2254/136.64; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/31.0.2254/139.83; U; fa) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/31.0.2254/139.90; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/32.0.2254/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/32.0.2254/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/32.0.2254/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/32.0.2254/138.63; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/32.0.2254/139.83; U; de) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/32.0.2254/139.83; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/32.0.2254/139.83; U; fa) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/32.0.2254/139.83; U; tr) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/32.0.2254/139.90; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/33.0.2254/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/33.0.2254/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/33.0.2254/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/33.0.2254/139.83; U; fr) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/33.0.2254/139.90; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/35.0.2254/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/35.0.2254/136.64; U; ms) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/35.0.2254/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/35.0.2254/138.63; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/35.0.2254/139.83; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/35.1.2254/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/35.1.2254/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/35.1.2254/136.77; U; hi) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/35.1.2254/138.54; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/35.1.2254/139.83; U; ar) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/35.1.2254/139.83; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/35.1.2254/139.90; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/35.3.2254/134.84; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/35.3.2254/138.63; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/35.3.2254/139.83; U; fa) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/36.0.2254/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/36.1.2254/138.54; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/36.1.2254/139.90; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/36.2.2254/134.104; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/36.2.2254/136.64; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/36.2.2254/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/36.2.2254/138.63; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/36.2.2254/139.83; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/36.2.2254/139.83; U; hi) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/36.2.2254/139.83; U; ms) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/36.2.2254/139.90; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/36.2.2254/139.90; U; sr) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/36.3.2254/139.83; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/37.0.2254/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/37.0.2254/138.63; U; fr) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/37.1.2254/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/37.1.2254/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/37.1.2254/138.63; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/37.1.2254/139.83; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/37.1.2254/139.90; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/37.2.2254/138.54; U; id) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/37.2.2254/138.63; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/37.3.2254/138.54; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/37.3.2254/139.90; U; de) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/37.3.2254/139.90; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/37.3.2254/139.90; U; es) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/37.3.2254/139.90; U; tr) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/37.4.2254/139.83; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/37.5.2254/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/37.5.2254/136.64; U; sw) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/37.5.2254/138.54; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/37.5.2254/139.83; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/37.5.2254/139.90; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/37.6.2254/136.64; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/37.6.2254/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/37.6.2254/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/37.6.2254/139.83; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/37.6.2254/139.83; U; fr) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/37.6.2254/139.90; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/38.0.2254/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/38.0.2254/136.64; U; id) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/38.0.2254/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/38.0.2254/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/38.0.2254/138.54; U; id) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/38.0.2254/138.54; U; si) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/38.0.2254/138.54; U; sw) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/38.0.2254/138.63; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/38.0.2254/138.63; U; ms) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/38.0.2254/139.83; U; ar) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/38.0.2254/139.83; U; de) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/38.0.2254/139.83; U; en) Presto/2.12.423 Version/12.16
@@ -7887,31 +8055,69 @@ Opera/9.80 (Android; Opera Mini/38.0.2254/139.83; U; tr) Presto/2.12.423 Version
 Opera/9.80 (Android; Opera Mini/38.0.2254/139.90; U; de) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/38.0.2254/139.90; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/38.0.2254/139.90; U; id) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/38.1.2254/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/38.1.2254/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/38.1.2254/138.54; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/38.1.2254/139.83; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/38.1.2254/139.83; U; hi) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/38.1.2254/139.83; U; ms) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/38.1.2254/139.83; U; ro) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/38.1.2254/139.83; U; tr) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/38.1.2254/139.90; U; de) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/38.1.2254/139.90; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/39.1.2254/136.64; U; ar) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/39.1.2254/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/39.1.2254/136.64; U; es) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/39.1.2254/136.64; U; fr) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/39.1.2254/136.64; U; hi) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/39.1.2254/136.64; U; ms) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/39.1.2254/136.64; U; si) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/39.1.2254/136.64; U; tr) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/39.1.2254/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/39.1.2254/136.77; U; fr) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/39.1.2254/136.77; U; hi) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/39.1.2254/136.77; U; ms) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/39.1.2254/136.77; U; sr) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/39.1.2254/136.77; U; tr) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/39.1.2254/138.54; U; ar) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/39.1.2254/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/39.1.2254/138.54; U; es) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/39.1.2254/138.54; U; fr) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/39.1.2254/138.54; U; hi) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/39.1.2254/138.54; U; ms) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/39.1.2254/138.54; U; si) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/39.1.2254/138.63; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/39.1.2254/138.63; U; fr) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/39.1.2254/138.63; U; uk) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/39.1.2254/139.83; U; ar) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/39.1.2254/139.83; U; de) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/39.1.2254/139.83; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/39.1.2254/139.83; U; es) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/39.1.2254/139.83; U; fr) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/39.1.2254/139.83; U; hi) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/39.1.2254/139.83; U; si) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/39.1.2254/139.83; U; tr) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/39.1.2254/139.90; U; ar) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/39.1.2254/139.90; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/39.1.2254/139.90; U; tr) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/40.1.2254/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/40.1.2254/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/40.1.2254/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/40.1.2254/138.54; U; tr) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/40.1.2254/138.63; U; ar) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/40.1.2254/138.63; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/40.1.2254/138.63; U; fr) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/40.1.2254/138.63; U; id) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/40.1.2254/138.63; U; tr) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/40.1.2254/139.83; U; ar) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/40.1.2254/139.83; U; az) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/40.1.2254/139.83; U; de) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/40.1.2254/139.83; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/40.1.2254/139.83; U; es) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/40.1.2254/139.83; U; fa) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/40.1.2254/139.83; U; fr) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/40.1.2254/139.83; U; hr) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/40.1.2254/139.83; U; ms) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/40.1.2254/139.83; U; pt) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/40.1.2254/139.83; U; ro) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/40.1.2254/139.83; U; sr) Presto/2.12.423 Version/12.16
@@ -7938,36 +8144,105 @@ Opera/9.80 (Android; Opera Mini/42.0.2254/139.90; U; ar) Presto/2.12.423 Version
 Opera/9.80 (Android; Opera Mini/42.0.2254/139.90; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/6.5.27049/28.2725; U; ru) Presto/2.8.119 Version/11.10
 Opera/9.80 (Android; Opera Mini/6.5.27431/139.83; U; fa) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/6.5.28192/139.83; U; ar) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/6.5.28192/139.83; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.0.28879/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.0.28879/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.0.28879/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.0.29759/138.63; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.0.29950/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.0.31782/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.0.31782/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.0.31782/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.0.32026/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.0.32026/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.0.32026/138.63; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.5.31657/139.83; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/7.5.31657/139.90; U; fa) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/7.5.31693/28.2725; U; ru) Presto/2.8.119 Version/11.10
+Opera/9.80 (Android; Opera Mini/7.5.32193/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.5.32193/138.63; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.5.32193/139.83; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.5.32195/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.5.32672/136.64; U; fr) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/7.5.32908/139.83; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.5.33135/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.5.33135/138.54; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/7.5.33135/139.90; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/7.5.33361/134.104; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.5.33361/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.5.33361/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.5.33361/138.63; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.5.33361/139.83; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/7.5.33361/139.90; U; fr) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/7.5.33725/138.54; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/7.5.33942/134.84; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.5.33942/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.5.33942/139.83; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.5.34817/138.54; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/7.5.34817/139.90; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.5.35188/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.5.35188/136.77; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/7.5.35188/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.5.35188/138.63; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/7.5.35188/139.90; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.5.35199/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.5.35199/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.5.35263/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.5.35263/139.83; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.5.35613/138.54; U; es) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/7.5.35613/139.90; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.5.35702/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.5.35721/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.5.35721/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.5.35721/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.5.35721/138.63; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/7.5.35721/139.90; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/7.5.35721/139.90; U; fr) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/7.5.54678/28.2555; U; ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Android; Opera Mini/7.6.35766/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.6.35766/139.83; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/7.6.35766/139.90; U; fa) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.6.35843/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.6.35843/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.6.35843/138.63; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/7.6.35843/139.90; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.6.40077/136.64; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/7.6.40077/139.90; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/7.6.40125/139.83; U; de) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/7.6.40234/134.104; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.6.40234/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.6.40234/136.64; U; fa) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.6.40234/136.64; U; id) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.6.40234/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.6.40234/138.54; U; ar) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.6.40234/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.6.40234/138.54; U; fr) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.6.40234/138.63; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/7.6.40234/139.83; U; de) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/7.6.40234/139.83; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/7.6.40234/139.83; U; fa) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.6.40234/139.83; U; id) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/7.6.40234/139.90; U; ar) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/7.6.40234/139.90; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.6.40251/138.63; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.6.40450/139.83; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.6.40472/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.7.40394/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/7.7.40394/139.83; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/8.0.1807/136.77; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/8.0.1807/139.83; U; fr) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/9.0.1829/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Android; Opera Mini/9.0.1829/138.54; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/9.0.1829/139.83; U; ar) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/9.0.1829/139.83; U; fr) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/9.0.1829/139.90; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35659/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/139.83; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (BREW; Opera Mini/6.0.3/108.137; U; en) Presto/2.12.423  ? ?
 Opera/9.80 (iPad; Opera Mini/16.0.14/139.90; U; de) Presto/2.12.423 Version/12.16
+Opera/9.80 (iPhone; Opera Mini/16.0.14/136.77; U; fr) Presto/2.12.423 Version/12.16
+Opera/9.80 (iPhone; Opera Mini/16.0.14/138.54; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (iPhone; Opera Mini/16.0.14/139.83; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (iPhone; Opera Mini/16.0.14/139.90; U; de) Presto/2.12.423 Version/12.16
 Opera/9.80 (iPhone; Opera Mini/16.0.14/139.90; U; en) Presto/2.12.423 Version/12.16
@@ -7987,13 +8262,33 @@ Opera/9.80 (Series 60; Opera Mini/7.1.32444/139.90; U; cs) Presto/2.12.423 Versi
 Opera/9.80 (Series 60; Opera Mini/7.1.32444/139.90; U; de) Presto/2.12.423 Version/12.16
 Opera/9.80 (Series 60; Opera Mini/7.1.32444/139.90; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Series 60; Opera Mini/7.1.32451/139.90; U; de) Presto/2.12.423 Version/12.16
+Opera/9.80 (SpreadTrum; Opera Mini/4.4.31492/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (SpreadTrum; Opera Mini/4.4.31492/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (SpreadTrum; Opera Mini/4.4.31492/136.77; U; fr) Presto/2.12.423 Version/12.16
+Opera/9.80 (SpreadTrum; Opera Mini/4.4.31492/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (SpreadTrum; Opera Mini/4.4.31492/138.54; U; fr) Presto/2.12.423 Version/12.16
+Opera/9.80 (SpreadTrum; Opera Mini/4.4.31492/138.63; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (SpreadTrum; Opera Mini/4.4.31492/138.63; U; fr) Presto/2.12.423 Version/12.16
+Opera/9.80 (SpreadTrum; Opera Mini/4.4.31492/139.83; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (SpreadTrum; Opera Mini/4.4.31492/139.83; U; fr) Presto/2.12.423 Version/12.16
 Opera/9.80 (SpreadTrum; Opera Mini/4.4.31492/139.90; U; fr) Presto/2.12.423 Version/12.16
 Opera/9.80 (SpreadTrum; Opera Mini/4.4.32739/134.84; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (SpreadTrum; Opera Mini/4.4.32739/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (SpreadTrum; Opera Mini/4.4.32739/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (SpreadTrum; Opera Mini/4.4.32739/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (SpreadTrum; Opera Mini/4.4.32739/138.63; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (SpreadTrum; Opera Mini/4.4.32739/139.83; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (SpreadTrum; Opera Mini/4.4.33961/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (SpreadTrum; Opera Mini/4.4.33961/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (SpreadTrum; Opera Mini/4.4.33961/138.54; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (SpreadTrum; Opera Mini/4.4.33961/138.63; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (SpreadTrum; Opera Mini/4.4.33961/139.83; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (SpreadTrum; Opera Mini/4.4.33961/139.83; U; fr) Presto/2.12.423 Version/12.16
 Opera/9.80 (SpreadTrum; Opera Mini/4.4.34080/139.83; U; pl) Presto/2.12.423 Version/12.16
 Opera/9.80 (SpreadTrum; Opera Mini/4.4.34867/139.83; U; de) Presto/2.12.423 Version/12.16
+Opera/9.80 (SpreadTrum; Opera Mini/6.5.31494/136.64; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (SpreadTrum; Opera Mini/6.5.31494/136.77; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (Tizen; Opera Mini/7.7.18/136.77; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Tizen; Opera Mini/7.7.18/139.90; U; id) Presto/2.12.423 Version/12.16
 Opera/9.80 (Windows 98; U; de-DE) Presto/2.2.15 Version/10.10
 Opera/9.80 (Windows 98; U; de) Presto/2.6.30 Version/10.61
@@ -8021,6 +8316,7 @@ Opera/9.80 (Windows NT 5.1; U; MRA 5.6 (build 03278); ru) Presto/2.6.30 Version/
 Opera/9.80 (Windows NT 5.1; U; pl) Presto/2.6.30 Version/10.62
 Opera/9.80 (Windows NT 5.1; U;) Presto/2.7.62 Version/11.01
 Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.2.15 Version/10.00
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.2.15 Version/10.01
 Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.5.22 Version/10.50
 Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.7.39 Version/11.00
 Opera/9.80 (Windows NT 5.1; U; sk) Presto/2.5.22 Version/10.50
@@ -8036,6 +8332,7 @@ Opera/9.80 (Windows NT 5.2; U; ru) Presto/2.7.62 Version/11.01
 Opera/9.80 (Windows NT 5.2; U; zh-cn) Presto/2.6.30 Version/10.63
 Opera/9.80 (Windows NT 6.0; Edition Campaign 21) Presto/2.12.388 Version/12.15
 Opera/9.80 (Windows NT 6.0; Opera Mobi/49; U; en) Presto/2.4.18 Version/10.00
+Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
 Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.17
 Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.18
 Opera/9.80 (Windows NT 6.0) Presto/2.12 Version/12.15
@@ -8136,6 +8433,8 @@ Opera/9.80 (X11; U; Linux i686; en-US; rv:1.9.2.3) Presto/2.2.15 Version/10.10
 Opera/9.99 (Windows NT 5.1; U; pl) Presto/9.9.9
 Opera/9.99 (X11; U; sk)
 Orange Zuco/Orange_LF003B_L2FR_V2.0.0 Obigo/Q03C
+Player/LG Player 1.0 for Android 5.0.1 (stagefright alternative)
+Player/LG Player 1.0 for Android 5.0.2 (stagefright alternative)
 PlayStationNetwork/1.0
 PlayStation Vita VideoPlayer/2.5 libhttp/3.68 (PS Vita)
 PlayStation Vita VideoPlayer/2.5 libhttp/3.69 (PS Vita)
@@ -8148,9 +8447,11 @@ QuickTime.7.7.7 (qtver=7.7.7;os=Windows NT 6.2)
 QuickTime.7.7.8 (qtver=7.7.8;os=Windows NT 6.2)
 QuickTime.7.7.9 (qtver=7.7.9;os=Windows NT 6.0Service Pack 2)
 QuickTime.7.7.9 (qtver=7.7.9;os=Windows NT 6.1Service Pack 1)
+SAMSUNG-GT-C3310/1.0 NetFront/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1 Google
 SAMSUNG-GT-C3310R/1.0 NetFront/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1 Google
 SAMSUNG-GT-C3350/C3350MBULF1 NetFront/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1 Google
 SAMSUNG-GT-C3590/1.0 NetFront/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1 Google
+SAMSUNG-GT-E2222/E2222JPLG4 NetFront/4.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
 SAMSUNG-GT-S3350/1.0 NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1 Google
 SAMSUNG-GT-S3802/1.0 NetFront/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
 SAMSUNG-GT-S3802/1.0 NetFront/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1 Google
@@ -8163,6 +8464,7 @@ SonyEricssonJ108i/R7DA Browser/NetFront/3.5 Profile/MIDP-2.1 Configuration/CLDC-
 SonyEricssonJ108i/R7EA Browser/NetFront/3.5 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.5.2
 SonyEricssonJ108i/R7EA Browser/NetFront/3.5 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.5.2 Google
 SonyEricssonJ10i2/R7CA Browser/NetFront/3.5 Profile/MIDP-2.1 Configuration/CLDC-1.1 JavaPlatform/JP-8.5.2
+SonyEricssonK700c/R2AE SEMC-Browser/4.0.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
 SonyEricssonW810i/R4EK Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1
 SonyEricssonWT13i/R3AD013 TelecaBrowser/Q07C1-1 Profile/MIDP-2.0 Configuration/CLDC-1.1
 SonyEricssonWT13i/R3AF010 TelecaBrowser/Q07C1-1 Profile/MIDP-2.0 Configuration/CLDC-1.1
@@ -8172,21 +8474,30 @@ UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.2; en-US; GT-I8190) U2/1.0.0 UCBrowser/11.1.2.11
 UCWEB/2.0 (MIDP-2.0; U; Adr 4.2.2; en-US; GT-S7580) U2/1.0.0 UCBrowser/10.7.2.757 U2/1.0.0 Mobile
 UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; Lenovo_K80M) U2/1.0.0 UCBrowser/9.7.0.520 U2/1.0.0 Mobile
 UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; SCL24) U2/1.0.0 UCBrowser/10.1.2.571 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; SM-G360H) U2/1.0.0 UCBrowser/10.7.8.806 U2/1.0.0 Mobile
 UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; SM-G360H) U2/1.0.0 UCBrowser/11.1.3.1128 U2/1.0.0 Mobile
 UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; SM-J110H) U2/1.0.0 UCBrowser/11.1.2.1113 U2/1.0.0 Mobile
 UCWEB/2.0 (MIDP-2.0; U; Adr 4.4.4; en-US; Tizen_Phone_with_ACL) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
 UCWEB/2.0 (MIDP-2.0; U; Adr 5.0.2; en-US; Redmi_Note_2) U2/1.0.0 UCBrowser/11.1.2.1113 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.0; en-US; SM-G900P) U2/1.0.0 UCBrowser/10.9.0.946 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1.1; en-US; SM-J120G) U2/1.0.0 UCBrowser/11.5.2.1188 U2/1.0.0 Mobile
 UCWEB/2.0 (MIDP-2.0; U; Adr 5.1.1; en-US; SM-J200G) U2/1.0.0 UCBrowser/8.8.1.359 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1.1; id; SM-J111F) U2/1.0.0 UCBrowser/11.0.0.1016 U2/1.0.0 Mobile
 UCWEB/2.0 (MIDP-2.0; U; Adr 5.1; en-US; 1201) U2/1.0.0 UCBrowser/11.1.0.1041 U2/1.0.0 Mobile
 UCWEB/2.0 (MIDP-2.0; U; Adr 5.1; en-US; Aqua_4G_Strong) U2/1.0.0 UCBrowser/10.6.8.732 U2/1.0.0 Mobile
 UCWEB/2.0 (MIDP-2.0; U; Adr 5.1; en-US; itel_it1409) U2/1.0.0 UCBrowser/10.1.2.571 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1; en-US; LS-5020) U2/1.0.0 UCBrowser/11.1.3.1128 U2/1.0.0 Mobile
 UCWEB/2.0 (MIDP-2.0; U; Adr 5.1; en-US; P5L) U2/1.0.0 UCBrowser/11.0.0.1016 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 5.1; id; CPH1605) U2/1.0.0 UCBrowser/10.7.6.805 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0.1; en-US; Redmi_Note_4) U2/1.0.0 UCBrowser/10.7.8.806 U2/1.0.0 Mobile
 UCWEB/2.0 (MIDP-2.0; U; Adr 6.0.1; en-US; SM-J700F) U2/1.0.0 UCBrowser/11.1.3.1128 U2/1.0.0 Mobile
 UCWEB/2.0 (MIDP-2.0; U; Adr 6.0; en-US; Aqua_5.5_VR) U2/1.0.0 UCBrowser/10.6.8.732 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 6.0; en-US; Aqua_Craze_2) U2/1.0.0 UCBrowser/10.6.8.732 U2/1.0.0 Mobile
 UCWEB/2.0 (MIDP-2.0; U; Adr 6.0; en-US; itel_A11) U2/1.0.0 UCBrowser/11.2.0.1125 U2/1.0.0 Mobile
 UCWEB/2.0 (MIDP-2.0; U; Adr 7.0; en-US; G3311) U2/1.0.0 UCBrowser/11.1.1.1091 U2/1.0.0 Mobile
 UCWEB/2.0 (MIDP-2.0; U; Adr 7.0; en-US; Redmi_Note_4) U2/1.0.0 UCBrowser/11.1.3.1128 U2/1.0.0 Mobile
 UCWEB/2.0 (MIDP-2.0; U; Adr 7.0; en-US; TECNO_L9_Plus) U2/1.0.0 UCBrowser/10.7.8.806 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 7.1.1; en-US; CPH1725) U2/1.0.0 UCBrowser/11.1.0.1041 U2/1.0.0 Mobile
 UCWEB/2.0 (MIDP-2.0; U; Adr 7.1.1; en-US; MotoG3) U2/1.0.0 UCBrowser/10.9.8.1006 U2/1.0.0 Mobile
 UCWEB/2.0 (MIDP-2.0; U; Adr 7.1.2; en-US; Redmi_5A) U2/1.0.0 UCBrowser/11.1.3.1128 U2/1.0.0 Mobile
 UCWEB/2.0 (MIDP-2.0; U; Adr 8.1.0; en-US; C1_Lite) U2/1.0.0 UCBrowser/11.3.0.1130 U2/1.0.0 Mobile
@@ -8194,6 +8505,7 @@ UCWEB/2.0 (MIDP-2.0; U; Adr 8.1.0; en-US; CPH1853) U2/1.0.0 UCBrowser/11.1.1.109
 UCWEB/2.0 (MIDP-2.0; U; Adr 8.1.0; en-US; itel_W5001P) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
 UCWEB/2.0 (MIDP-2.0; U; Adr 8.1.0; en-US; Redmi_Note_5_Pro) U2/1.0.0 UCBrowser/11.2.0.1125 U2/1.0.0 Mobile
 UCWEB/2.0 (MIDP-2.0; U; Adr 8.1.0; en-US; SM-G610F) U2/1.0.0 UCBrowser/10.7.9.856 U2/1.0.0 Mobile
+UCWEB/2.0 (MIDP-2.0; U; Adr 8.1.0; id; i5G) U2/1.0.0 UCBrowser/11.1.0.1041 U2/1.0.0 Mobile
 UCWEB/2.0 (Symbian; U; S60 V5; en-US; NokiaC5-03) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
 UCWEB/2.0 (Windows; U; wds 8.10; de-DE; NOKIA; RM-892_eu_euro2_200) U2/1.0.0 UCBrowser/4.2.1.541 U2/1.0.0 Mobile
 UCWEB/2.0 (Windows; U; wds 8.10; en-IN; Microsoft; RM-1090_1001) U2/1.0.0 UCBrowser/4.2.1.541 U2/1.0.0 Mobile
