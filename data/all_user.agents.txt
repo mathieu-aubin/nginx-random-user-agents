@@ -611,6 +611,7 @@ Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; en-US)
 Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; fr-FR)
 Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; c .NET CLR 3.0.04506; .NET CLR 3.5.30707; InfoPath.1; el-GR)
 Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; WOW64; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; c .NET CLR 3.0.04506; .NET CLR 3.5.30707; InfoPath.1; el-GR)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/4.0)
 Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/4.0; InfoPath.1; SV1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 3.0.04506.30)
 Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; SLCC1; .NET CLR 1.1.4322)
 Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/3.0)
@@ -2698,6 +2699,8 @@ Mozilla/5.0 (Windows; U; Windows NT 5.0; ; rv:1.8.0.1) Gecko/20060111 Firefox/1.
 Mozilla/5.0 (Windows; U; Windows NT 5.0; ; rv:1.8.0.7) Gecko/20060917 Firefox/1.9.0.1
 Mozilla/5.0 (Windows; U; Windows NT 5.0; zh-TW; rv:1.8.0.1) Gecko/20060111 Firefox/0.10
 Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/532.0 (KHTML, like Gecko) Iron/3.0.197.0 Safari/532.0
+Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/532.1.4 (KHTML, like Gecko) Version/4.0 Safari/532.1.4
+Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/534.30.5 (KHTML, like Gecko) Version/4.0 Safari/534.30.5
 Mozilla/5.0 (Windows; U; Windows NT 5.1; bg-BG; rv:1.9.1b4pre) Gecko/20090307 Shiretoko/3.1b4pre
 Mozilla/5.0 (Windows; U; Windows NT 5.1; ca-es) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.1 Safari/525.20
 Mozilla/5.0 (Windows; U; Windows NT 5.1; ca; rv:1.8.1b1) Gecko/20060710 Firefox/2.0b1
@@ -3950,6 +3953,7 @@ Mozilla/5.0 (Windows; U; Windows NT 5.2; zh) AppleWebKit/522.13.1 (KHTML, like G
 Mozilla/5.0 (Windows; U; Windows NT 5.2; zh-CN; rv:1.9.1.5) Gecko/Firefox/3.5.5
 Mozilla/5.0 (Windows; U; Windows NT 5.2; zh-TW; rv:1.9.1.5) Gecko/20091106 Shiretoko/3.5.5 (.NET CLR 3.5.30729)
 Mozilla/5.0 (Windows; U; Windows NT 5.2; zh-TW; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
+Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/533.29.3 (KHTML, like Gecko) Version/4.0 Safari/533.29.3
 Mozilla/5.0 (Windows; U; Windows NT 6.0; bg; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)
 Mozilla/5.0 (Windows; U; Windows NT 6.0; cs) AppleWebKit/522.15.5 (KHTML, like Gecko) Version/3.0.3 Safari/522.15.5
 Mozilla/5.0 (Windows; U; Windows NT 6.0; cs; rv:1.8.1.20) Gecko/20081217 Firefox/2.0.0.20

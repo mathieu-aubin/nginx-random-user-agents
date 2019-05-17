@@ -4,7 +4,7 @@
 This will create (enventually) nginx configuration which will output a random user-agent on each page refresh
 
 ### As it stands
-Currently, the script properly generates text and html indexes out of a bank of 8527 user-agents.
+Currently, the script properly generates text and html indexes out of a bank of 8531 user-agents.
 
 ### Plan
 
